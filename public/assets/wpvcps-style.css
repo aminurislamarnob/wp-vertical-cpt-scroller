@@ -1,0 +1,31 @@
+.wpvcps-scroll-container ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.wpvcps-post-thumb {
+    display: flex;
+}
+
+.wpvcps-post-thumb .wpvcps-thumb img {
+    min-width: 100px!important;
+    height: 100px;
+}
+
+.wpvcps-thumb {
+    margin-right: 15px;
+}
+
+.wpvcps-scroll-container .wpvcps-post-thumb {
+    padding-bottom: 30px;
+}
+
+.wpvcps-scroller-title a {
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 1;
+    display: block;
+    margin-bottom: 10px;
+}

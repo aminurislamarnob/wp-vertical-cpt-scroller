@@ -4,8 +4,8 @@ Plugin Name: WP Vertical CPT Scroller
 Plugin URI:
 Description: WordPress Vertical Custom Posts or Post Scroller.
 Version: 1.1
-Author: Jakarea Parvez
-Author URI: 
+Author: Aminur Islam
+Author URI: https://github.com/aminurislamarnob
 License: GPLv2 or later
 Text Domain: wpv-cp-sc
 Domain Path: /languages
